@@ -406,4 +406,40 @@ Incluso me encantaria que pudiesemos plantear un motor de estimación por escena
   | Total con riesgos (\~25%) | \~13.75 días ≈ 14 días hábiles (\~3 semanas) |
 
 
-  
+# Posibles Interfaces de Ejemplo de la App (basico)
+
+![image](https://github.com/user-attachments/assets/6f522c1c-38c3-4edd-9aba-8db4e8a43770)
+
+![image](https://github.com/user-attachments/assets/a3f61875-529e-4f83-b7c4-d5ae3159a354)
+
+![image](https://github.com/user-attachments/assets/88e29271-edda-421e-9961-d8aea29c63f0)
+
+![image](https://github.com/user-attachments/assets/f7878841-3147-458d-bec4-b031c0c70452)
+
+![image](https://github.com/user-attachments/assets/efe22df3-0b30-40d6-8314-42d69baa0d52)
+
+![image](https://github.com/user-attachments/assets/cf8c03f7-c74c-4451-a3b4-ebe8deff6ea5)
+
+![image](https://github.com/user-attachments/assets/16da0705-36ed-4571-9243-d67017e53422)
+
+![image](https://github.com/user-attachments/assets/46a38618-4794-4306-8b1a-8689cca380e1)
+
+![image](https://github.com/user-attachments/assets/bd7e1d83-657b-4664-80d6-cde31dcdb4f4)
+
+![image](https://github.com/user-attachments/assets/1929657f-e297-424a-8e4e-6fe44a971c3b)
+
+![image](https://github.com/user-attachments/assets/3800c55f-eadf-4c6b-ba9c-97a01058ff44)
+
+![image](https://github.com/user-attachments/assets/fafe8b00-4638-41bd-9145-4711e6ba81ee)
+
+![image](https://github.com/user-attachments/assets/f82e1f03-3fb2-4763-b950-4c8621c9574c)
+
+![image](https://github.com/user-attachments/assets/16fe6521-b2a0-4845-84c2-cad2cf427cc9)
+
+![image](https://github.com/user-attachments/assets/88798dd4-7150-4c52-8b8f-7f3d126139c9)
+
+![image](https://github.com/user-attachments/assets/849b7a7e-1095-4ed6-ad6a-c811b4d75e7b)
+
+
+
+
