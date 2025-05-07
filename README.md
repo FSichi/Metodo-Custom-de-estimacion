@@ -406,40 +406,53 @@ Incluso me encantaria que pudiesemos plantear un motor de estimación por escena
   | Total con riesgos (\~25%) | \~13.75 días ≈ 14 días hábiles (\~3 semanas) |
 
 
-# Posibles Interfaces de Ejemplo de la App (basico)
+# Pantallas de la App
 
-![image](https://github.com/user-attachments/assets/6f522c1c-38c3-4edd-9aba-8db4e8a43770)
+## Definicion del proyecto
+![alt text](image-1.png)
 
-![image](https://github.com/user-attachments/assets/a3f61875-529e-4f83-b7c4-d5ae3159a354)
+## Definicion del equipo
 
-![image](https://github.com/user-attachments/assets/88e29271-edda-421e-9961-d8aea29c63f0)
+Nota: 
+  * Senority: Junior, SemiSenior, Senior, Tech Lead.
+  * El rol se dejo como un campo de texto y no como un select, para que el usuario pueda definirlo como quiera. La idea es sea flexible con los puestos de trabajo.
 
-![image](https://github.com/user-attachments/assets/f7878841-3147-458d-bec4-b031c0c70452)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
-![image](https://github.com/user-attachments/assets/efe22df3-0b30-40d6-8314-42d69baa0d52)
+## Definicion de tareas
 
-![image](https://github.com/user-attachments/assets/cf8c03f7-c74c-4451-a3b4-ebe8deff6ea5)
+Nota: En la app se pueden agregar tareas, asignarles un perfil recomendado para llevar adelante dicha tarea y definir si son automatizables o no, con su respectivo valor de ahorro. Se pueden agregar dependencias entre tareas, para considerar a la hora de paralelizar y el sistema calculará automáticamente el tiempo total estimado del proyecto.
 
-![image](https://github.com/user-attachments/assets/16da0705-36ed-4571-9243-d67017e53422)
+Nota 2: 
+ * Tipo de Tareas: Frontend, Backend, DevOps, Otros.
+ * Tipo de Perfil Recomendado: Junior, SemiSenior, Senior, Tech Lead.
+ * Las dependencias entre tareas se asignan en la edicion de las mismas y se pueden agregar tantas como se necesiten, siempre que sean criteriosas con respecto al flujo.
 
-![image](https://github.com/user-attachments/assets/46a38618-4794-4306-8b1a-8689cca380e1)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-8.png)
 
-![image](https://github.com/user-attachments/assets/bd7e1d83-657b-4664-80d6-cde31dcdb4f4)
+## Resultados 
 
-![image](https://github.com/user-attachments/assets/1929657f-e297-424a-8e4e-6fe44a971c3b)
+En esta seccion se puede ver el resultado de la estimacion del proyecto, con el tiempo total estimado y el desglose por tareas. Se puede ver el tiempo total estimado considerando los riesgos y la suma de factores de riesgo.
 
-![image](https://github.com/user-attachments/assets/3800c55f-eadf-4c6b-ba9c-97a01058ff44)
+Ademas, se puede ver de una manera sencilla y grafica la distribucion de tareas y asignaciones para cada recurso, con el objetivo de ver el porcentaje de aprovechamiento de cada uno, con el objetivo de saber ajustar la distribucion o los miembros del equipo. 
 
-![image](https://github.com/user-attachments/assets/fafe8b00-4638-41bd-9145-4711e6ba81ee)
+Se hace un recuento de las tareas agrupadas por tipo [Frontend, Backend, DevOps, Otros] y se muestra el tiempo total estimado por cada una de ellas.
 
-![image](https://github.com/user-attachments/assets/f82e1f03-3fb2-4763-b950-4c8621c9574c)
+Luego, viene el plato fuerte de la app, se puede apreciar la secuencia del camino critico del proyecto, con las tareas que son dependientes entre si. Luego se presenta un diagrama de Gantt, donde se puede ver la distribucion de tareas y el tiempo estimado para cada una de ellas, ADEMAS DE VER DE MANERA VISUAL EL PARALISMO DE LAS TAREAS y la distribucion de las mismas con respecto al tiempo en horas, pero considerando dias de jornadas estandar de trabajo de 8 horas. Por ultimo, se presenta una tabla con las asignaciones de cada persona, para poder visualizar la distribucion automatica, o en caso de haberla hecho manualmente, ver el inicio y fin de las mismas con respecto al tiempo total.
 
-![image](https://github.com/user-attachments/assets/16fe6521-b2a0-4845-84c2-cad2cf427cc9)
+La ultima funcionalidad que se presenta, es la comparacion de escenarios, donde se pueden comparar diferentes escenarios de estimacion, para ver como afecta el tiempo total estimado y la distribucion de tareas y recursos. Se pueden agregar o quitar miembros del equipo, cambiar el perfil recomendado de las tareas, agregar o quitar automatizacion, etc; y ver de una manera rapida cual es la mejor alternativa.
 
-![image](https://github.com/user-attachments/assets/88798dd4-7150-4c52-8b8f-7f3d126139c9)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
 
-![image](https://github.com/user-attachments/assets/849b7a7e-1095-4ed6-ad6a-c811b4d75e7b)
+El desarrollo de la plataforma esta en un 90% terminado. Solo falta contemplar la posibilidad de si es necesario o no conectar esto con una DB para guardar escenarios o proyectos.
 
-
-
-
+Proximamente link publico para testear.
