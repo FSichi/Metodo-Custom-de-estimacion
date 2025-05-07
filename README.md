@@ -405,11 +405,10 @@ Incluso me encantaria que pudiesemos plantear un motor de estimación por escena
   | Total sin buffer          | \~11 días                                    |
   | Total con riesgos (\~25%) | \~13.75 días ≈ 14 días hábiles (\~3 semanas) |
 
-
 # Pantallas de la App
 
 ## Definicion del proyecto
-![image](images/image-1.png)
+![image](https://i.ibb.co/7d4Vm7bt/image-1.png)
 
 
 ## Definicion del equipo
@@ -418,11 +417,11 @@ Nota:
   * Senority: Junior, SemiSenior, Senior, Tech Lead.
   * El rol se dejo como un campo de texto y no como un select, para que el usuario pueda definirlo como quiera. La idea es sea flexible con los puestos de trabajo.
 
-![image](images/image-2.png)
+![image](https://i.ibb.co/pmN74w5/image-2.png)
 
-![image](images/image-3.png)
+![image](https://i.ibb.co/5xhWWyQy/image-3.png)
 
-![image](images/image-4.png)
+![image](https://i.ibb.co/qLfrMxKT/image-4.png)
 
 
 ## Definicion de tareas
@@ -434,11 +433,11 @@ Nota 2:
  * Tipo de Perfil Recomendado: Junior, SemiSenior, Senior, Tech Lead.
  * Las dependencias entre tareas se asignan en la edicion de las mismas y se pueden agregar tantas como se necesiten, siempre que sean criteriosas con respecto al flujo.
 
-![image](images/image-5.png)
+![image](https://i.ibb.co/zW9LLJ87/image-5.png)
 
-![image](images/image-6.png)
+![image](https://i.ibb.co/0jbYgv0n/image-6.png)
 
-![image](images/image-8.png)
+![image](https://i.ibb.co/HTJnYw8J/image-8.png)
 
 ## Resultados 
 
@@ -452,18 +451,17 @@ Luego, viene el plato fuerte de la app, se puede apreciar la secuencia del camin
 
 La ultima funcionalidad que se presenta, es la comparacion de escenarios, donde se pueden comparar diferentes escenarios de estimacion, para ver como afecta el tiempo total estimado y la distribucion de tareas y recursos. Se pueden agregar o quitar miembros del equipo, cambiar el perfil recomendado de las tareas, agregar o quitar automatizacion, etc; y ver de una manera rapida cual es la mejor alternativa.
 
-![image](images/image-13.png)
+![image](https://i.ibb.co/4R4wjR3F/image-13.png)
 
-![image](images/image-14.png)
+![image](https://i.ibb.co/xSK0VzLm/image-14.png)
 
-![image](images/image-15.png)
+![image](https://i.ibb.co/vx2JhRyv/image-15.png)
 
-![image](images/image-16.png)
+![image](https://i.ibb.co/gFSrXR5N/image-16.png)
 
-![image](images/image-17.png)
+![image](https://i.ibb.co/m50V7GVB/image-17.png)
 
-![image](images/image-18.png)
-
+![image](https://i.ibb.co/bjcD3Mb4/image-18.png)
 
 El desarrollo de la plataforma esta en un 90% terminado. Solo falta contemplar la posibilidad de si es necesario o no conectar esto con una DB para guardar escenarios o proyectos.
 
