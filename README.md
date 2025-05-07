@@ -408,8 +408,7 @@ Incluso me encantaria que pudiesemos plantear un motor de estimación por escena
 # Pantallas de la App
 
 ## Definicion del proyecto
-![image](https://i.ibb.co/7d4Vm7bt/image-1.png)
-
+![image-1](https://github.com/user-attachments/assets/225ec2f3-9a87-48b0-8377-26851a858599)
 
 ## Definicion del equipo
 
