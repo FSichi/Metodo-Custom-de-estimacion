@@ -409,7 +409,7 @@ Incluso me encantaria que pudiesemos plantear un motor de estimación por escena
 # Pantallas de la App
 
 ## Definicion del proyecto
-![image](images2/image-1.webp)
+![image](images/image-1.png)
 
 
 ## Definicion del equipo
@@ -418,11 +418,11 @@ Nota:
   * Senority: Junior, SemiSenior, Senior, Tech Lead.
   * El rol se dejo como un campo de texto y no como un select, para que el usuario pueda definirlo como quiera. La idea es sea flexible con los puestos de trabajo.
 
-![image](images2/image-2.webp)
+![image](images/image-2.png)
 
-![image](images2/image-3.webp)
+![image](images/image-3.png)
 
-![image](images2/image-4.webp)
+![image](images/image-4.png)
 
 
 ## Definicion de tareas
@@ -434,11 +434,11 @@ Nota 2:
  * Tipo de Perfil Recomendado: Junior, SemiSenior, Senior, Tech Lead.
  * Las dependencias entre tareas se asignan en la edicion de las mismas y se pueden agregar tantas como se necesiten, siempre que sean criteriosas con respecto al flujo.
 
-![image](images2/image-5.webp)
+![image](images/image-5.png)
 
-![image](images2/image-6.webp)
+![image](images/image-6.png)
 
-![image](images2/image-8.webp)
+![image](images/image-8.png)
 
 ## Resultados 
 
@@ -452,17 +452,17 @@ Luego, viene el plato fuerte de la app, se puede apreciar la secuencia del camin
 
 La ultima funcionalidad que se presenta, es la comparacion de escenarios, donde se pueden comparar diferentes escenarios de estimacion, para ver como afecta el tiempo total estimado y la distribucion de tareas y recursos. Se pueden agregar o quitar miembros del equipo, cambiar el perfil recomendado de las tareas, agregar o quitar automatizacion, etc; y ver de una manera rapida cual es la mejor alternativa.
 
-![image](images2/image-13.webp)
+![image](images/image-13.png)
 
-![image](images2/image-14.webp)
+![image](images/image-14.png)
 
-![image](images2/image-15.webp)
+![image](images/image-15.png)
 
-![image](images2/image-16.webp)
+![image](images/image-16.png)
 
-![image](images2/image-17.webp)
+![image](images/image-17.png)
 
-![image](images2/image-18.webp)
+![image](images/image-18.png)
 
 
 El desarrollo de la plataforma esta en un 90% terminado. Solo falta contemplar la posibilidad de si es necesario o no conectar esto con una DB para guardar escenarios o proyectos.
