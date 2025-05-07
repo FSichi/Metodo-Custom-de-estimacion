@@ -450,17 +450,17 @@ Luego, viene el plato fuerte de la app, se puede apreciar la secuencia del camin
 
 La ultima funcionalidad que se presenta, es la comparacion de escenarios, donde se pueden comparar diferentes escenarios de estimacion, para ver como afecta el tiempo total estimado y la distribucion de tareas y recursos. Se pueden agregar o quitar miembros del equipo, cambiar el perfil recomendado de las tareas, agregar o quitar automatizacion, etc; y ver de una manera rapida cual es la mejor alternativa.
 
-![image](https://i.ibb.co/4R4wjR3F/image-13.png)
+![image-13](https://github.com/user-attachments/assets/bbcdb7a5-277a-4add-88ec-4f7f3e8433f4)
 
-![image](https://i.ibb.co/xSK0VzLm/image-14.png)
+![image-14](https://github.com/user-attachments/assets/d80719ea-90c5-4b86-a49e-032f8932fcb1)
 
-![image](https://i.ibb.co/vx2JhRyv/image-15.png)
+![image-15](https://github.com/user-attachments/assets/cfd1e814-df57-4b02-9a82-9807814c6367)
 
-![image](https://i.ibb.co/gFSrXR5N/image-16.png)
+![image-16](https://github.com/user-attachments/assets/8e18ee15-2bf4-431a-9d65-af0118a95b86)
 
-![image](https://i.ibb.co/m50V7GVB/image-17.png)
+![image-17](https://github.com/user-attachments/assets/5a8c10bd-71a0-4dac-9ade-a155697e7008)
 
-![image](https://i.ibb.co/bjcD3Mb4/image-18.png)
+![image-18](https://github.com/user-attachments/assets/e5f50eff-cb05-4335-b6fe-9734c76da45b)
 
 El desarrollo de la plataforma esta en un 90% terminado. Solo falta contemplar la posibilidad de si es necesario o no conectar esto con una DB para guardar escenarios o proyectos.
 
