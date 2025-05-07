@@ -409,7 +409,8 @@ Incluso me encantaria que pudiesemos plantear un motor de estimación por escena
 # Pantallas de la App
 
 ## Definicion del proyecto
-![image](https://github.com/user-attachments/assets/b0fc4a5a-fa00-4f89-9bf0-e5d98b68846a)
+![alt text](image-1.png)
+
 
 ## Definicion del equipo
 
@@ -417,9 +418,9 @@ Nota:
   * Senority: Junior, SemiSenior, Senior, Tech Lead.
   * El rol se dejo como un campo de texto y no como un select, para que el usuario pueda definirlo como quiera. La idea es sea flexible con los puestos de trabajo.
 
-![image](https://github.com/user-attachments/assets/b3b4941b-35f2-4241-9643-ee4042050d32)
-![image](https://github.com/user-attachments/assets/588b59c2-439e-4f9d-8cfa-f6633266219e)
-![image](https://github.com/user-attachments/assets/87fed4be-23fc-4a96-8303-4a46a2202235)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 
 ## Definicion de tareas
@@ -431,9 +432,9 @@ Nota 2:
  * Tipo de Perfil Recomendado: Junior, SemiSenior, Senior, Tech Lead.
  * Las dependencias entre tareas se asignan en la edicion de las mismas y se pueden agregar tantas como se necesiten, siempre que sean criteriosas con respecto al flujo.
 
-![image](https://github.com/user-attachments/assets/9a87301d-6f27-4398-9068-d37e17c16eb4)
-![image](https://github.com/user-attachments/assets/6338420e-40c7-465f-b400-35a6b70e75f5)
-![image](https://github.com/user-attachments/assets/5aa6cb3b-b1c3-4ab2-b489-11803fae6e59)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-8.png)
 
 ## Resultados 
 
@@ -447,13 +448,12 @@ Luego, viene el plato fuerte de la app, se puede apreciar la secuencia del camin
 
 La ultima funcionalidad que se presenta, es la comparacion de escenarios, donde se pueden comparar diferentes escenarios de estimacion, para ver como afecta el tiempo total estimado y la distribucion de tareas y recursos. Se pueden agregar o quitar miembros del equipo, cambiar el perfil recomendado de las tareas, agregar o quitar automatizacion, etc; y ver de una manera rapida cual es la mejor alternativa.
 
-![image](https://github.com/user-attachments/assets/c0514593-9a30-471a-96dd-6f560162eed2)
-![image](https://github.com/user-attachments/assets/2a6f1b1c-b168-472a-96db-b63061c9c1ac)
-![image](https://github.com/user-attachments/assets/b2bf3582-b3f9-4a02-8dd5-94edfa0e78f1)
-![image](https://github.com/user-attachments/assets/11e64931-a97b-48a4-a56e-ab20615bfe67)
-![image](https://github.com/user-attachments/assets/a5108c7c-c08d-4734-a18c-a13c2769bdc7)
-![image](https://github.com/user-attachments/assets/462f7073-aed2-4d4c-84fe-e919c7a399c7)
-![image](https://github.com/user-attachments/assets/dccb5985-87bd-4e19-943e-141d8c51ca60)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
 
 
 El desarrollo de la plataforma esta en un 90% terminado. Solo falta contemplar la posibilidad de si es necesario o no conectar esto con una DB para guardar escenarios o proyectos.
