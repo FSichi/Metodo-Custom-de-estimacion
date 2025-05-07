@@ -416,11 +416,11 @@ Nota:
   * Senority: Junior, SemiSenior, Senior, Tech Lead.
   * El rol se dejo como un campo de texto y no como un select, para que el usuario pueda definirlo como quiera. La idea es sea flexible con los puestos de trabajo.
 
-![image](https://i.ibb.co/pmN74w5/image-2.png)
+![image-2](https://github.com/user-attachments/assets/9ff138b9-90d7-41a1-ae9d-4d1277952d76)
 
-![image](https://i.ibb.co/5xhWWyQy/image-3.png)
+![image-3](https://github.com/user-attachments/assets/9cd3a87b-5b10-471e-a839-91b21f64a50a)
 
-![image](https://i.ibb.co/qLfrMxKT/image-4.png)
+![image-4](https://github.com/user-attachments/assets/a684e17d-790f-4336-a5fb-c67d39a01a42)
 
 
 ## Definicion de tareas
