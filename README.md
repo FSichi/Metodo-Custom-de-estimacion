@@ -432,11 +432,11 @@ Nota 2:
  * Tipo de Perfil Recomendado: Junior, SemiSenior, Senior, Tech Lead.
  * Las dependencias entre tareas se asignan en la edicion de las mismas y se pueden agregar tantas como se necesiten, siempre que sean criteriosas con respecto al flujo.
 
-![image](https://i.ibb.co/zW9LLJ87/image-5.png)
+![image-5](https://github.com/user-attachments/assets/d3372d9f-df7b-4b8c-9367-42ec2b63d5a7)
 
-![image](https://i.ibb.co/0jbYgv0n/image-6.png)
+![image-6](https://github.com/user-attachments/assets/7370af32-0b50-40f1-9c3f-1a2e3d41c757)
 
-![image](https://i.ibb.co/HTJnYw8J/image-8.png)
+![image-8](https://github.com/user-attachments/assets/9f6e99a8-3a88-4022-af97-bf9d65e88787)
 
 ## Resultados 
 
