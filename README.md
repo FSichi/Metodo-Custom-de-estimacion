@@ -418,7 +418,8 @@ Nota:
   * Senority: Junior, SemiSenior, Senior, Tech Lead.
   * El rol se dejo como un campo de texto y no como un select, para que el usuario pueda definirlo como quiera. La idea es sea flexible con los puestos de trabajo.
 
-![image](image-2.png)
+[image](image-2.png)
+
 ![image](image-3.png)
 ![image](image-4.png)
 
