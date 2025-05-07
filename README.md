@@ -421,6 +421,7 @@ Nota:
 ![image](images/image-2.png)
 
 ![image](images/image-3.png)
+
 ![image](images/image-4.png)
 
 
@@ -434,7 +435,9 @@ Nota 2:
  * Las dependencias entre tareas se asignan en la edicion de las mismas y se pueden agregar tantas como se necesiten, siempre que sean criteriosas con respecto al flujo.
 
 ![image](images/image-5.png)
+
 ![image](images/image-6.png)
+
 ![image](images/image-8.png)
 
 ## Resultados 
@@ -450,10 +453,15 @@ Luego, viene el plato fuerte de la app, se puede apreciar la secuencia del camin
 La ultima funcionalidad que se presenta, es la comparacion de escenarios, donde se pueden comparar diferentes escenarios de estimacion, para ver como afecta el tiempo total estimado y la distribucion de tareas y recursos. Se pueden agregar o quitar miembros del equipo, cambiar el perfil recomendado de las tareas, agregar o quitar automatizacion, etc; y ver de una manera rapida cual es la mejor alternativa.
 
 ![image](images/image-13.png)
+
 ![image](images/image-14.png)
+
 ![image](images/image-15.png)
+
 ![image](images/image-16.png)
+
 ![image](images/image-17.png)
+
 ![image](images/image-18.png)
 
 
