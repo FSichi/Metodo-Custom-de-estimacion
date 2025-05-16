@@ -88,15 +88,47 @@ Incluso me encantaria que pudiesemos plantear un motor de estimación por escena
   ```
   (optimista + 4 * probable + pesimista) / 6  --> Calculo PERT
 
-  1. Luego se multiplica por SeniorityFactor:
+
+  1. PASO 1: Ajuste por seniority 
+
+    Se multiplica la duracion por el SeniorityFactor:
+
     - Junior: x1
     - SemiSenior: x0.8
     - Senior: x0.6
     - TechLead: x0.5
 
-  2. Se Sustrae Savings de Automatizacion (Si aplica)
+    Ejemplo:Si una tarea dura 10h en promedio y la realiza un Senior → 10h × 0.6 = 6h
 
-  3. Se multiplica por factor de riezgos contemplados por el usuario. (Podemos ofrecer algunos preconfigurados)
+  2. PASO 2: Ahorro por automatización (En caso de aplicar)
+
+    Si la tarea es automatizable, se sustrae el ahorro correspondiente:
+
+    Ejemplo:Tarea ajustada: 6h, con 30% automatización → 6h × 0.7 = 4.2h
+
+  3. PASO 3: Ajuste por carga horaria semanal del recurso
+
+    Cada recurso define su carga horaria semanal (por ejemplo, 20h/semana o 40h/semana).Esto impacta directamente en la duración en días hábiles de una tarea.
+
+    Duración (en días) = Duración final (en horas) / (horas semanales / 5 días)
+  
+    Ejemplos:
+
+      * Si la duración ajustada de una tarea es de 10h:
+      * Un recurso de 40h/semana la completa en 10h ÷ (40h ÷ 5) = 1.25 días
+      * Un recurso de 20h/semana la completa en 10h ÷ (20h ÷ 5) = 2.5 días
+
+    Esto permite modelar escenarios donde un recurso tiene dedicación parcial o trabaja media jornada.
+
+  3. PASO 4: Ajuste por riesgos
+
+    Se multiplica por un factor de riesgo configurado por el usuario, considerando riesgos:
+
+    * Técnicos (integraciones, tecnologías nuevas).
+    * Organizacionales (cambios de alcance, rotación).
+    * Externos (proveedores, dependencia de terceros).
+
+    Ejemplo:4.2h × 1.2 (20% de riesgo total) = 5.04h
 
   Ejemplo rapido:
 
@@ -106,6 +138,17 @@ Incluso me encantaria que pudiesemos plantear un motor de estimación por escena
   Luego, para calcular el proyecto completo:
 
   Armamos un grafo de dependencias (como en CPM) → identificamos que puede hacerse en paralelo y qué depende del camino crítico.
+
+  ```
+
+  ```
+    Resultado final de la fórmula (resumen):
+
+    Duración final (en horas) =
+      [(O + 4M + P) / 6] × productividad × (1 - automatización) × riesgo
+
+    Duración en días =
+      Duración final (horas) ÷ (horas/semana del recurso ÷ 5)
 
   ```
 
